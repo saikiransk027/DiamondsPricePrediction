@@ -8,5 +8,11 @@ Check the change in accuracy to apply  ML algorithm.
 # Explored Concept 
 Correlation.  
 Linear Regression.  
-Performance Matrics.  
+Performance Metrics.  
 Visualisation. 
+
+# Contributors
+Sai Kiran A
+Sai Shivani V
+
+
